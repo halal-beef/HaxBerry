@@ -19,14 +19,12 @@ This tool aims to install a custom bootloader featuring tons of features
 - Revert Hax
 
 ## Devices
-- ### All variants
-- - Blackberry Q20/Classic
-- - Blackberry Q5
-- - Blackberry Leap
-- ### Only STL100-2, STL100-3, STL100-4
-- - Blackberry Q10 LTE
-- - BlackBerry Porsche Design P'9982
-- - Blackberry Z10
+- Blackberry Q20/Classic
+- Blackberry Q5
+- Blackberry Leap
+- Blackberry Q10 LTE
+- BlackBerry Porsche Design P'9982
+- Blackberry Z10
 
 ## How is this possible
 Thanks to several exploits intended for the Snapdragon S4 codenamed HaxS4.
