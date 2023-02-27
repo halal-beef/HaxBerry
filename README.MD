@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/halal-beef/res/blob/main/finished.png" width="350" alt="HaxBerry Logo">
+<img align="right" src="https://github.com/halal-beef/res/blob/main/finished.png" Height="350" alt="HaxBerry Logo">
 
 # HaxBerry
 
