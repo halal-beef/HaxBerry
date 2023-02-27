@@ -11,16 +11,19 @@ We're not responsible for bricked devices, dead microSD cards, dead cats or dogs
 
 I am fixing this repo and finalizing everything.
 
+
 ## What is this?
 
 HaxBerry Loader or HaxBL for short, is a tool made by me, designed to exploit BlackBerry 10 devices.
 This tool aims to install a custom bootloader.
 
+
 ## How is this possible
 Magic (Pain) and Skill (Near death)
 
+
 ## Contributors
 
-- ShujaHaider-Dev
+- [ShujaHaider-Dev](https://github.com/ShujaHaider-Dev)
 
-- extrowerk: [Github](https://github.com/extrowerk)
+- [extrowerk](https://github.com/extrowerk)
